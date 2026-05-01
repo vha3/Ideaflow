@@ -1,7 +1,5 @@
 # Ideaflow License
 
-I’m in an unusual academic position that doesn’t require I care about conventional academic performance metrics. This creates the opportunity to explore alternative mechanisms for getting feedback on ideas and work.
-
 The conventional academic mechanism for getting feedback on one’s work is peer review. This solicits the opinions of other academics, but it doesn’t access all the professionals, hackers, and makers that might provide high-impact evaluation of nascent ideas, particularly in engineering. It also doesn’t provide enough feedback to generate any statistics on the quality of an idea.
 
 The Ideaflow license is an experiment. I’m an engineer, and I *really* value the thoughts and opinions of other people that build things. These folks, like myself, often participate in the open-source software ecosystem. We make use of software that other folks have written and contribute our own software to be used by other people. Most open-sourced software contains a license that describes how the author permits others to use their work. Ideaflow is such a license.
