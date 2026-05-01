@@ -1,0 +1,7 @@
+"THE IDEAFLOW LICENSE" (Revision 1):
+
+<Author(s) (contact)> wrote this software. As long as you retain this notice, you may do whatever you want with it.
+
+If you find this software useful, please consider thanking the author(s) by offering your thoughts (anonymously or otherwise) on some ideas that they are developing. These ideas are documented at the URL below, which also includes a form for providing feedback. The author(s) value your input regardless of your familiarity with the material, and will endeavor to present the material for which they request feedback such that it does not require domain expertise to assess. Feedback need not be technical in nature.
+
+Link to material for evaluation, and feedback form: <url>
