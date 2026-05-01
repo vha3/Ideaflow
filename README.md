@@ -1,3 +1,5 @@
+# Ideaflow License
+
 I’m in an unusual academic position that doesn’t require I care about conventional academic performance metrics. This creates the opportunity to explore alternative mechanisms for getting feedback on ideas and work.
 
 The conventional academic mechanism for getting feedback on one’s work is peer review. This solicits the opinions of other academics, but it doesn’t access all the professionals, hackers, and makers that might provide high-impact evaluation of nascent ideas, particularly in engineering. It also doesn’t provide enough feedback to generate any statistics on the quality of an idea.
